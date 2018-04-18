@@ -3,14 +3,6 @@
 public class BinaryTree {
 	Node root;
 	
-
-	
-	
-
-	
-
-	
-	
 	//adding new values for nodes
 	
 	/*public static void main(String [] args) {
@@ -27,7 +19,6 @@ public class BinaryTree {
 		
 	}
 	*/
-
 
 	
 	public void addNode (int key, String name) {
@@ -78,11 +69,6 @@ public class BinaryTree {
 			
 		}
 	
-
-	
-	
-	
-
 	
 	//inOrder way of traverse has been chosen to structure the nodes
 	//the ascending order: left nodes go first, the right ones are the last
@@ -103,9 +89,6 @@ public class BinaryTree {
 	}
 	
 		
-
-
-
 
 //the structure of the Node itself
 //also the constructor for it within the same class with the same name
